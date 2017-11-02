@@ -1,7 +1,7 @@
 config = {
-  "name": "",
+  "name": "bsys",
   "version": "0.0.1",
-  "description": "",
+  "description": "system tools",
   "url": "",
   "author": "Sean Harrison",
   "author_email": "sah@blackearth.us",
