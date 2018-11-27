@@ -13,7 +13,7 @@ config = {
     "Programming Language :: Python :: 3"
   ],
   "entry_points": {},
-  "install_requires": ["bl"],
+  "install_requires": [],
   "extras_require": {
     "dev": [],
     "test": []
